@@ -1,8 +1,8 @@
 # 🔥 HyperTrack CLI – Crypto Portfolio Tracker for [HyperSwap](https://hyperswap.exchange)
 
-[![License](https://img.shields.io/github/license/yourusername/hypertrack-cli.svg)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/yourusername/hypertrack-cli.svg)](https://github.com/yourusername/hypertrack-cli/issues)
-[![Stars](https://img.shields.io/github/stars/yourusername/hypertrack-cli.svg)](https://github.com/yourusername/hypertrack-cli/stargazers)
+[![License](https://img.shields.io/github/license/hyperswp/hypertrack-cli.svg)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/hyperswp/hypertrack-cli.svg)](https://github.com/yourusername/hypertrack-cli/issues)
+[![Stars](https://img.shields.io/github/stars/hyperswp/hypertrack-cli.svg)](https://github.com/yourusername/hypertrack-cli/stargazers)
 
 **HyperTrack CLI** is a fast, lightweight, and secure command-line portfolio tracker built for [HyperSwap](https://hyperswap.exchange). Get real-time balances, token prices, and total portfolio value directly in your terminal.
 
